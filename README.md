@@ -18,7 +18,7 @@ The project covers multiple optimization strategies for LLMs:
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/llm-finetuning-and-quantization.git
+git clone https://github.com/rohitptnk/llm-finetuning-and-quantization.git
 cd llm-finetuning-and-quantization
 
 # Install dependencies
