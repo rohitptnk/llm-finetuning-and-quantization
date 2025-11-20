@@ -16,10 +16,4 @@ The project covers multiple optimization strategies for LLMs:
 
 ## Getting Started
 
-```bash
-# Clone the repository
-git clone https://github.com/rohitptnk/llm-finetuning-and-quantization.git
-cd llm-finetuning-and-quantization
-
-# Install dependencies
-pip install -r requirements.txt
+Open the Google Colab file and run all the evaluation cells. The training details are included as comments below the evaluation section within the same notebook.
